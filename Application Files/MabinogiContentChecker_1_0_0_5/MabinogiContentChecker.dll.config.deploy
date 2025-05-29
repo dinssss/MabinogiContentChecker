@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="MobinogiChecker.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+            <section name="마비노기_콘텐츠체커.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <MobinogiChecker.Properties.Settings>
+            <setting name="chkColorChange_0" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="CharacterName0" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="CharacterName1" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="CharacterName2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="CharacterName3" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="CharacterName4" serializeAs="String">
+                <value />
+            </setting>
+        </MobinogiChecker.Properties.Settings>
+        <마비노기_콘텐츠체커.Properties.Settings>
+            <setting name="chkColorChange_0" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="txtCharacterName0" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="txtCharacterName1" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="txtCharacterName2" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="txtCharacterName3" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="txtCharacterName4" serializeAs="String">
+                <value />
+            </setting>
+        </마비노기_콘텐츠체커.Properties.Settings>
+    </userSettings>
+</configuration>
